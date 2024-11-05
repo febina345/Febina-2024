@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Febina-2024/static/css/main.11ce9e9e.css",
+    "main.js": "/Febina-2024/static/js/main.8708676f.js",
+    "static/media/image1.jpg": "/Febina-2024/static/media/image1.f5b47e43631fbfbed4d7.jpg",
+    "static/media/image4.jpg": "/Febina-2024/static/media/image4.d033b9d0b555d2a9c0e4.jpg",
+    "static/media/image6.jpg": "/Febina-2024/static/media/image6.088047c5e630c8408ecd.jpg",
+    "index.html": "/Febina-2024/index.html",
+    "main.11ce9e9e.css.map": "/Febina-2024/static/css/main.11ce9e9e.css.map",
+    "main.8708676f.js.map": "/Febina-2024/static/js/main.8708676f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11ce9e9e.css",
+    "static/js/main.8708676f.js"
+  ]
+}
